@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C266D296-FC27-451E-B44B-D8E1B331247A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>VoodooSDHC</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C3226FFD-FA9D-4750-9013-5A623D7BC186</key>
+		<string>http://forge.voodooprojects.org/svn/voodoosdhci</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/VoodooSDHC.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C3226FFD-FA9D-4750-9013-5A623D7BC186</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>C3226FFD-FA9D-4750-9013-5A623D7BC186</key>
+		<string>http://forge.voodooprojects.org/svn/voodoosdhci</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://forge.voodooprojects.org/svn/voodoosdhci/trunk/VoodooSDHC.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C3226FFD-FA9D-4750-9013-5A623D7BC186</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTagsRelativeLocationKey</key>
+			<string>tags</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C3226FFD-FA9D-4750-9013-5A623D7BC186</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NewVoodooSDHC</string>
+		</dict>
+	</array>
+</dict>
+</plist>
